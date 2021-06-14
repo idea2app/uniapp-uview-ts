@@ -4,6 +4,7 @@ package-lock.json
 yarn.lock
 unpackage/
 dist/
+.husky/_/
 
 # local env files
 .env.local

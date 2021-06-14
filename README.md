@@ -6,7 +6,8 @@
 vue create -p dcloudio/uni-preset-vue uniapp-uview-ts
 ```
 
-[![NPM Dependency](https://david-dm.org/TechQuery/uniapp-uview-ts.svg)][4]
+[![NPM Dependency](https://david-dm.org/idea2app/uniapp-uview-ts.svg)][4]
+[![CI & CD](https://github.com/idea2app/uniapp-uview-ts/workflows/CI%20&%20CD/badge.svg)][5]
 
 ## 本地开发
 
@@ -15,10 +16,11 @@ npm install
 npm run dev:mp-weixin
 ```
 
-命令执行成功后，将 `dist/dev/mp-weixin/` 目录导入[微信开发者工具][5]。
+命令执行成功后，将 `dist/dev/mp-weixin/` 目录导入[微信开发者工具][6]。
 
 [1]: https://uniapp.dcloud.io/
 [2]: https://uviewui.com/
 [3]: https://www.typescriptlang.org/
-[4]: https://david-dm.org/TechQuery/uniapp-uview-ts
-[5]: https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html
+[4]: https://david-dm.org/idea2app/uniapp-uview-ts
+[5]: https://github.com/idea2app/uniapp-uview-ts/actions
+[6]: https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html
